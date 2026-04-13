@@ -1,0 +1,18 @@
+{
+  "name": "Carmella Condo Association — Roofing Portal",
+  "short_name": "Carmella HOA",
+  "description": "5-Year Roofing Plan by Dreamworx Roofing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#0f1923",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "DWORX_LOGO_400x400.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
